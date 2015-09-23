@@ -137,7 +137,7 @@ module.exports = {
         "no-undef-init": 2,
         "no-undef": 2,
         "no-undefined": 0,
-        "no-unused-vars": [2, {"vars": "all", "args": "none"}],
+        "no-unused-vars": [2, {"vars": "all", "args": "none", "varsIgnorePattern": "^React$"}],
         "no-use-before-define": [2, "nofunc"],
 
         /**

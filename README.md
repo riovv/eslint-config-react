@@ -14,3 +14,7 @@ A set of ESLint (http://eslint.org) opinionated rules by me.
 ## Why does it complain about bla-blu-blä, what does it all mean?
 Read about all the rules here: http://eslint.org/docs/rules/  
 React plugin rules: https://github.com/yannickcr/eslint-plugin-react#list-of-supported-rules
+
+## Changelog
+#### 1.0.1
+no-unused-vars: Ignore React as unused variable. Because you need to import React for JSX (it will reference that variable) without you specifically referencing it.
