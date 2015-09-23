@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-patrio",
+  "name": "eslint-config-react",
   "version": "1.0.2",
   "description": "A set of opinionated ESLint rules (all rules included) by me.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/patrio/eslint-config-patrio.git"
+    "url": "https://github.com/patrio/eslint-config-react.git"
   },
   "keywords": [
     "eslint",
@@ -17,7 +17,7 @@
   "author": "Patric Nordmark <patric.nordmark@dice.se>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/patrio/eslint-config-patrio/issues"
+    "url": "https://github.com/patrio/eslint-config-react/issues"
   },
-  "homepage": "https://github.com/patrio/eslint-config-patrio"
+  "homepage": "https://github.com/patrio/eslint-config-react"
 }

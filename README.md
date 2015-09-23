@@ -1,5 +1,5 @@
 # eslint-config-patrio
-A set of ESLint (http://eslint.org) opinionated rules by me.
+A set of opinionated ESLint (http://eslint.org) rules by me for React projects.
 
 ## Usage:
 1. `npm install --save-dev eslint-config-patrio babel-eslint eslint-plugin-react`
