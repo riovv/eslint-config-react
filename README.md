@@ -6,7 +6,7 @@ A set of opinionated ESLint (http://eslint.org) rules by me for React projects.
 2. Create a file named `.eslintrc` in your project:
 ```js
 {
-  "extends": "patrio"
+  "extends": "react"
   // Your overrides...
 }
 ```
