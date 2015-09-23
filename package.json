@@ -1,0 +1,23 @@
+{
+  "name": "eslint-config-patrio",
+  "version": "1.0.0",
+  "description": "A set of opinionated ESLint rules (all rules included) by me.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/patrio/eslint-config-patrio.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "author": "Patric Nordmark <patric.nordmark@dice.se>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/patrio/eslint-config-patrio/issues"
+  },
+  "homepage": "https://github.com/patrio/eslint-config-patrio"
+}
