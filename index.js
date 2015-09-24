@@ -223,7 +223,7 @@ module.exports = {
         "no-this-before-super": 2,
         "no-var": 0,
         "object-shorthand": 0,
-        "prefer-const": 1,
+        "prefer-const": 0,
         "prefer-spread": 1,
         "prefer-reflect": 1,
         "require-yield": 1,
