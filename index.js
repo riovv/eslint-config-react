@@ -282,6 +282,7 @@ module.exports = {
                 "componentWillUpdate",
                 "componentDidUpdate",
                 "componentWillUnmount",
+                "/^component.+$/",
                 "/^get.+$/",
                 "/^on.+$/",
                 "everything-else",

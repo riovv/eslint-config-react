@@ -16,6 +16,8 @@ Read about all the rules here: http://eslint.org/docs/rules/
 React plugin rules: https://github.com/yannickcr/eslint-plugin-react#list-of-supported-rules
 
 ## Changelog
+#### 1.0.5
+react/sort-comp: Order custom component* (lifecycle) methods before other custom methods.
 #### 1.0.4
 prefer-const: Disabled since it's very annoying when you have variables that will be changeable later on. const is a very nice concept that should be used for stuff that are actually constants.
 #### 1.0.3
