@@ -246,7 +246,7 @@ module.exports = {
         "react/jsx-boolean-value": 2,
         "react/jsx-closing-bracket-location": 0,
         "react/jsx-curly-spacing": [2, "never"],
-        "react/jsx-indent-props": [2, 'tab'],
+        "react/jsx-indent-props": 0,
         "react/jsx-max-props-per-line": 0,
         "react/jsx-no-duplicate-props": 2,
         "react/jsx-no-literals": 0,
