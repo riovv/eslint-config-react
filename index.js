@@ -214,7 +214,7 @@ module.exports = {
         /**
          * ECMAScript 6
          */
-        "arrow-parens": 2,
+        "arrow-parens": 0,
         "arrow-spacing": 2,
         "constructor-super": 2,
         "generator-star-spacing": 2,
@@ -224,8 +224,8 @@ module.exports = {
         "no-var": 0,
         "object-shorthand": 0,
         "prefer-const": 0,
-        "prefer-spread": 1,
-        "prefer-reflect": 1,
+        "prefer-spread": 2,
+        "prefer-reflect": 2,
         "require-yield": 1,
 
         /**
