@@ -16,6 +16,8 @@ Read about all the rules here: http://eslint.org/docs/rules/
 React plugin rules: https://github.com/yannickcr/eslint-plugin-react#list-of-supported-rules
 
 ## Changelog
+#### 1.1.1 
+Removed env from config. That should be set per project, especially since it can't be overrriden.
 #### 1.1.0
 arrow-parens: You should be allowed to omit parens if only one parameter (2 -> 0)  
 prefer-spread: Moving to ES6, this should be default.  
