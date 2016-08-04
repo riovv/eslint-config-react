@@ -252,7 +252,7 @@ module.exports = {
         "react/jsx-uses-react": 0,
         "react/jsx-uses-vars": 2,
         "react/no-danger": 0,
-        "react/no-did-mount-set-state": [2, 'allow-in-func'],
+        "react/no-did-mount-set-state": [2, "allow-in-func"],
         "react/no-did-update-set-state": 2,
         "react/no-direct-mutation-state": 2,
         "react/no-multi-comp": 0,
