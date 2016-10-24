@@ -265,17 +265,7 @@ module.exports = {
         "react/wrap-multilines": 2,
         "react/sort-comp": [2, {
             "order": [
-                "mixins",
-                "displayName",
-                "propTypes",
-                "contextTypes",
-                "childContextTypes",
-                "statics",
-                "defaultProps",
                 "constructor",
-                "getDefaultProps",
-                "getInitialState",
-                "getChildContext",
                 "componentWillMount",
                 "componentDidMount",
                 "componentWillReceiveProps",
@@ -284,10 +274,7 @@ module.exports = {
                 "componentDidUpdate",
                 "componentWillUnmount",
                 "/^component.+$/",
-                "/^get.+$/",
-                "/^on.+$/",
                 "everything-else",
-                "/^render.+$/",
                 "render"
             ]
         }]
