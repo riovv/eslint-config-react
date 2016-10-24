@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-react",
-  "version": "1.1.3",
+  "version": "1.1.4",
   "description": "A set of opinionated ESLint rules (all rules included) tailored for React projects",
   "main": "index.js",
   "scripts": {
