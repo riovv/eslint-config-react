@@ -265,9 +265,9 @@ module.exports = {
         "react/sort-comp": [2, {
             "order": [
 				"propTypes",
-				"defaultProps"
+				"defaultProps",
                 "constructor",
-				"getChildContext"
+				"getChildContext",
                 "componentWillMount",
                 "componentDidMount",
                 "componentWillReceiveProps",
