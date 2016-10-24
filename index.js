@@ -236,7 +236,7 @@ module.exports = {
          * React plugin
          */
         "react/display-name": 0,
-        "react/forbid-prop-types": [2, {"forbid": "any"}],
+        "react/forbid-prop-types": [2, {"forbid": ["any"]}],
         "react/jsx-boolean-value": 2,
         "react/jsx-closing-bracket-location": 0,
         "react/jsx-curly-spacing": [2, "never"],
