@@ -264,10 +264,14 @@ module.exports = {
         "react/jsx-wrap-multilines": 2,
         "react/sort-comp": [2, {
             "order": [
-				"propTypes",
-				"defaultProps",
+		"mixins",
+		"displayName",
+		"propTypes",
+		"defaultProps",
                 "constructor",
-				"getChildContext",
+		"getDefaultProps",
+		"getInitialState",
+		"getChildContext",
                 "componentWillMount",
                 "componentDidMount",
                 "componentWillReceiveProps",
