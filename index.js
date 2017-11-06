@@ -1,23 +1,12 @@
 module.exports = {
     "parser": "babel-eslint",
 
-    "ecmaFeatures": {
-        "arrowFunctions": true,
-        "blockBindings": true,
-        "classes": true,
-        "defaultParams": true,
-        "destructuring": true,
-        "forOf": true,
-        "generators": false,
-        "modules": true,
-        "objectLiteralComputedProperties": true,
-        "objectLiteralDuplicateProperties": false,
-        "objectLiteralShorthandMethods": true,
-        "objectLiteralShorthandProperties": true,
-        "spread": true,
-        "superInFunctions": true,
-        "templateStrings": true,
-        "jsx": true
+    "parserOptions": {
+      "ecmaVersion": 6,
+      "ecmaFeatures": {
+          "jsx": true
+      },
+      "sourceType": "module"
     },
 
     "plugins": [
